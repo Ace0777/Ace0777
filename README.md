@@ -4,7 +4,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace0777&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ace0777&show_icons=true&theme=dark&title_color=BDA209FF&text_color=FF891B&icon_color=FF891B)
 
 
 
