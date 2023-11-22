@@ -6,7 +6,7 @@ I currently work in tech Support and study programming at [Vianna Junior College
 
 My first contact with programming was when I was 18 years old, where I fell in love and found myself professionally.
 
-All my projects and studies are in this [repository](https://github.com/Ace0777/Projects) 
+All my projects and studies are in this [repository](https://github.com/Ace0777/Projects) ☕
 
 
 ## Main skills:
