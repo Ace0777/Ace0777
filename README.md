@@ -1,12 +1,12 @@
 # Hello, It's a pleasure to have you here!!
 
- **My name is Luís, I am a backend developer
+ **My name is Luís, I am a backend developer**
 
- **I currently work in tech Support and study programming at [Vianna Junior College (3/4)](https://www.vianna.edu.br/analise-e-desenv-de-sistemas/)
+ **I currently work in tech Support and study programming at [Vianna Junior College (3/4)](https://www.vianna.edu.br/analise-e-desenv-de-sistemas/)**
 
- **My first contact with programming was when I was 18 years old, where I fell in love and found myself professionally.
+ **My first contact with programming was when I was 18 years old, where I fell in love and found myself professionally.**
 
- **All my projects and studies are in this [repository](https://github.com/Ace0777/Projects) ☕
+ **All my projects and studies are in this [repository](https://github.com/Ace0777/Projects) ☕**
 
 
 ## Main skills:
