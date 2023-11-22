@@ -10,9 +10,9 @@ All my projects and studies are in this [repository](https://github.com/Ace0777/
 
 
 ## Main skills:
-<div >
-	[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,docker,maven,mongodb,mysql&theme=dark)](https://skillicons.dev)
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,docker,maven,mongodb,mysql&theme=dark)](https://skillicons.dev)
+
 
 
 ## Ways to find me 📫
