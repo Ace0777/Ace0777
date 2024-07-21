@@ -11,7 +11,7 @@
 
 ## Main skills:
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,cs,docker,maven,mongodb,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,mongodb,mysql&theme=dark)](https://skillicons.dev)
 
 
 
