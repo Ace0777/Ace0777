@@ -1,4 +1,4 @@
-# Hello, It's a pleasure to have you here ☕!!
+# Hello, It's a pleasure to have you here ☕
 
  **My name is Luís, I am a backend developer**
 
