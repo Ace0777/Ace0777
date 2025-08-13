@@ -2,11 +2,6 @@
 
  **My name is Luís, I am a backend developer**
 
- **I currently work in tech Support and study programming at [Vianna Junior College (4/4)](https://www.vianna.edu.br/analise-e-desenv-de-sistemas/)**
-
- **My first contact with programming was when I was 18 years old, where I fell in love and found myself professionally.**
-
-
 
 ## Main skills:
 
