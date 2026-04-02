@@ -1,4 +1,4 @@
-# Hi, I'm Luís Henrique 👋
+# Hi, I'm Luís Henrique
 
 **Backend Developer · Java & Spring Boot · Open to junior/mid roles**
 
@@ -29,7 +29,7 @@ Currently pursuing a postgraduate degree in Software Architecture at FIAP. Looki
 
 ### Featured projects
 
-#### ⭐ [rate-limiter](https://github.com/Ace0777/rate-limiter)
+#### [rate-limiter](https://github.com/Ace0777/rate-limiter) — 13 stars
 Production-ready rate limiting implementation for Spring Boot APIs. Supports fixed window, sliding window, and token bucket strategies with Redis-backed distributed control.
 
 `Java` `Spring Boot` `Redis` `Docker`
@@ -53,4 +53,4 @@ REST API for file upload and management integrated with cloud storage. Handles m
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luishhasantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/luis-henrique-hilario/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luis-henrique-hilario)
