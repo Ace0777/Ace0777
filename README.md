@@ -53,4 +53,4 @@ REST API for file upload and management integrated with cloud storage. Handles m
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:luishhasantos@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luís-henrique-santos-ace0777)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([(https://www.linkedin.com/in/luis-henrique-hilario/))
