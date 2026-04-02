@@ -37,16 +37,16 @@ Production-ready rate limiting implementation for Spring Boot APIs. Supports fix
 ---
 
 #### [support-flow](https://github.com/Ace0777/support-flow)
-Microservices-based support ticket system with async communication via RabbitMQ, JWT auth, and real-time updates through WebSocket/SSE.
+Microservices-based support ticket system built with Spring Cloud. Services include API Gateway, Service Discovery (Eureka), Auth, User, Ticket, Email, and Log — communicating asynchronously via RabbitMQ with JWT auth and MongoDB Atlas.
 
-`Java` `Spring Cloud` `RabbitMQ` `WebSocket` `JWT`
+`Java` `Spring Cloud` `RabbitMQ` `JWT` `MongoDB` `Docker`
 
 ---
 
 #### [file-upload-api-with-cloud](https://github.com/Ace0777/file-upload-api-with-cloud)
-REST API for file upload and management integrated with cloud storage. Handles multipart uploads, access control, and cloud bucket orchestration.
+Spring Boot API for file upload with full AWS integration. Files are stored in S3, metadata persisted in RDS PostgreSQL, and thumbnails generated asynchronously via SQS + Lambda (Go). CI/CD with GitHub Actions deploying to EC2.
 
-`Java` `Spring Boot` `AWS S3` `REST API`
+`Java` `Spring Boot` `AWS S3` `SQS` `Lambda` `RDS` `GitHub Actions`
 
 ---
 
